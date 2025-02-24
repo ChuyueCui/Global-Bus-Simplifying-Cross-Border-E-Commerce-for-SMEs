@@ -13,3 +13,6 @@ Conducted competitive analysis to identify key challenges in global e-commerce a
 Reduced operational barriers: Provided an all-in-one solution for SMEs to handle international shipping, currency exchange, and customs compliance.
 Improved transaction efficiency: Streamlined payments and logistics tracking to reduce delays and operational costs.
 Market Expansion: Helped SMEs scale to international markets by reducing complexity in cross-border trade.
+
+## Reports
+- [Global Bus Business Plan](Reports/Global_Bus_Business_Plan.md)

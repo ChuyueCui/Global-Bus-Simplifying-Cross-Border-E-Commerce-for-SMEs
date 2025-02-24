@@ -16,6 +16,7 @@ Market Expansion: Helped SMEs scale to international markets by reducing complex
 
 📄 Business Plan  
 - [Global Bus Business Plan](Global_Bus_Business_Plan.md)
+
 📄 Business Plan pdf version 
 - [Global Bus Business Plan](Reports/Global_Bus_Business_Plan.pdf)
 

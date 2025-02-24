@@ -18,6 +18,6 @@ Market Expansion: Helped SMEs scale to international markets by reducing complex
 - [Global Bus Business Plan](Global_Bus_Business_Plan.md)
 
 📄 Business Plan pdf version 
-- [Global Bus Business Plan](Reports/Global_Bus_Business_Plan.pdf)
+- https://github.com/ChuyueCui/Global-Bus-Simplifying-Cross-Border-E-Commerce-for-SMEs/blob/main/Global%20Bus%20Business%20Plan.pdf
 
 

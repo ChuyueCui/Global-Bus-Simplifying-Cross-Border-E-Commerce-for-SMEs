@@ -1,22 +1,6 @@
 Telfer School of Management – University of Ottawa
 
-ADM3313[P]
-
-New Venture Creation
-
-Assignment 2
-
-Due Date: 04/12/2024
-
-Abid Abdullah (300124593)
-
-Alioune Kane (300236093)
-
-Cia Cui (300126895)
-
-Sadek Mechouet (300246957)
-
-Tanya Jain (300208594)
+ADM3313[P]-New Venture Creation
 
 Table of contents
 

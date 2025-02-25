@@ -15,6 +15,7 @@ Improved transaction efficiency: Streamlined payments and logistics tracking to 
 Market Expansion: Helped SMEs scale to international markets by reducing complexity in cross-border trade.
 
 📄 Business Plan
-- [Global Bus Business Plan](Global Bus Business Plan.pdf)
+- [Global Bus Business Plan](Global_Bus_Business_Plan.pdf)
+
 
 

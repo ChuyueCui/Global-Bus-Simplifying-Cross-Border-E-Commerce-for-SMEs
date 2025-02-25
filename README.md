@@ -14,10 +14,7 @@ Reduced operational barriers: Provided an all-in-one solution for SMEs to handle
 Improved transaction efficiency: Streamlined payments and logistics tracking to reduce delays and operational costs.
 Market Expansion: Helped SMEs scale to international markets by reducing complexity in cross-border trade.
 
-📄 Business Plan  
-- [reports/Global_Bus_Business_Plan.md]
-
-📄 Business Plan pdf version 
-- https://github.com/ChuyueCui/Global-Bus-Simplifying-Cross-Border-E-Commerce-for-SMEs/blob/main/Global%20Bus%20Business%20Plan.pdf
+📄 Business Plan
+- Global Bus Business Plan.pdf
 
 

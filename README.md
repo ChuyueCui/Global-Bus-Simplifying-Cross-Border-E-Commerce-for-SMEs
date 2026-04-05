@@ -21,6 +21,9 @@ Global Bus is a cross-border e-commerce platform designed to help small and medi
 
 - [Global Bus Business Plan](https://github.com/ChuyueCui/Global-Bus-Simplifying-Cross-Border-E-Commerce-for-SMEs/blob/main/Reports/Global%20Bus%20Business%20Plan.pdf)
 
+📄 Business Plan & Strategy Presentation:  
+[View Slides](./global_bus_strategy_presentation.pdf)
+
 
 
 
